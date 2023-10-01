@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Apr 2023 16:07:48 at https://optimismprotocols.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://optimismprotocols.org/ -O1 "C:\My Web Sites\https___optimismprotocols.org_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethers.umd.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/cdn.jsdelivr.net/npm/web3%401.8.1/dist/web3.min.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/unpkg.com/evm-chains%400.2.0/dist/umd/index.min.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/unpkg.com/%40walletconnect/web3-provider%401.8.0/dist/umd/index.min.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/unpkg.com/axios%401.2.2/dist/axios.min.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/cdn.jsdelivr.net/npm/%40coinbase/wallet-sdk%403.6.3/dist/index.min.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/githulb.com/scripts/main.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/code.jquery.com/jquery-3.6.3.slim.min.js (from https://optimismprotocols.org/)
+16:08:00	Error: 	"Not Found" (404) at link https://optimismprotocols.org/cdn.jsdelivr.net/npm/ua-parser-js%401.0.33/src/ua-parser.min.js (from https://optimismprotocols.org/)
+16:08:56	Error: 	"Not Found" (404) at link https://optimismprotocols.org/apps/_/612d22b1b3db690c6276e2a0/63e669d95ac2c479b9558f14_AVTå¸¦æå­_æ¹.html (from https://optimismprotocols.org/apps/all.html)
+16:09:07	Error: 	"Not Found" (404) at link https://optimismprotocols.org/apps/_/612d22b1b3db690c6276e2a0/61c1094051891713411e6329_OÎ 40s.html (from https://optimismprotocols.org/apps/nfts.html)
+16:09:10	Error: 	"Not Found" (404) at link https://optimismprotocols.org/cdn-cgi/l/email-protection.html (from https://optimismprotocols.org/gateway-terms.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 24 seconds : 364 links scanned, 351 files written (8552633 bytes overall) [2648797 bytes received at 31533 bytes/sec], 8560441 bytes transferred using HTTP compression in 361 files, ratio 27%, 182.0 requests per connection
+(12 errors, 0 warnings, 0 messages)

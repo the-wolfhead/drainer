@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Apr 2023 14:26:11 at https://sui-community.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sui-community.com/ -O1 "C:\My Web Sites\drainer dev" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:27:11	Error: 	"Not Found" (404) at link https://sui-community.com/sui.io/img/sui-social.jpg (from https://sui-community.com/)
+14:27:11	Error: 	"Not Found" (404) at link https://sui-community.com/favicon.png (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/ecosystem/gaming/index.html (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/ecosystem/finance/index.html (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/resources/index.html (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/events/index.html (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/storage.googleapis.com/sui-cms-content/fastaf_a8737a17cb/fastaf.png (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/storage.googleapis.com/sui-cms-content/digital_assets_4ba1dad90e/digital-assets.png (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/storage.googleapis.com/sui-cms-content/forpeople_2a2dc2b50b/forpeople.png (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/storage.googleapis.com/sui-cms-content/comp_code_6e920a2408/comp-code.png (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/storage.googleapis.com/sui-cms-content/green_ba5a7e2ad0/green.png (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/policy/index.html (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/terms/index.html (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/polyfill.io/v3/polyfill.mine77a.js?features=WeakMap,IntersectionObserver (from https://sui-community.com/)
+14:27:54	Error: 	"Not Found" (404) at link https://sui-community.com/scripts/sweetalert2@11 (from https://sui-community.com/)
+14:29:29	Error: 	"Not Found" (404) at link https://sui-community.com/polyfill.io/v3/polyfill.mine77ae77a.html,IntersectionObserver (from https://sui-community.com/index-2.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 18 seconds : 114 links scanned, 97 files written (24523220 bytes overall) [22011347 bytes received at 111168 bytes/sec], 3592058 bytes transferred using HTTP compression in 8 files, ratio 29%, 1.0 requests per connection
+(16 errors, 0 warnings, 0 messages)
